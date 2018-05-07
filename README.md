@@ -2,6 +2,7 @@
 Script for quick mine switch for Ethos
 
 # Install
+- Backup your local.conf file, it will be deleted
 - Copy all to your /home/ethos folder
 - Edit /home/ethos/configs/head.conf file with your default config for all coins
 - Edit your /home/ethos/configs/* files for your coin - only address needed, or you can change pool
