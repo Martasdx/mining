@@ -1,0 +1,11 @@
+
+# not tested
+
+# ZCASH
+globalminer claymore-zcash
+stratumproxy enable
+proxywallet YOUR_ADDRESS
+proxypool1 zec-eu1.nanopool.org:6666
+proxypool2 zec-eu2.nanopool.org:6666
+poolpass1 x
+poolpass2 x

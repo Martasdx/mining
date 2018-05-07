@@ -1,0 +1,17 @@
+
+# lightly tested
+
+# ETH
+globalminer claymore
+stratumproxy enabled
+proxywallet YOUR_ADDRESS_ETH
+proxypool1 eu1.ethermine.org:4444
+proxypool2 us1.ethermine.org:4444
+
+
+# DUAL - SIA
+dualminer enabled
+dualminer-coin sia
+dualminer-pool eu.siamining.com:7777
+dualminer-wallet YOUR_ADDRESS_SIA
+dualminer-poolpass x

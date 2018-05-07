@@ -1,0 +1,8 @@
+
+
+# ETH
+globalminer claymore
+stratumproxy enabled
+proxywallet YOUR_ADDRESS
+proxypool1 eu1.ethermine.org:4444
+proxypool2 us1.ethermine.org:4444

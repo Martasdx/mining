@@ -1,0 +1,9 @@
+
+# EXP
+globalminer claymore
+stratumproxy enabled
+proxywallet YOUR_ADDRESS
+proxypool1 eu.expmine.pro:9009
+proxypool2 us.expmine.pro:9009
+poolpass1 x
+poolpass2 x

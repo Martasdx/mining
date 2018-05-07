@@ -1,0 +1,12 @@
+
+# not tested
+
+
+# ZClassic
+globalminer claymore-zcash
+stratumproxy enable
+proxywallet YOUR_ADDRESS
+proxypool1 eu.zclmine.pro:9009
+proxypool2 eu1.zclmine.pro:9009
+poolpass1 x
+poolpass2 x

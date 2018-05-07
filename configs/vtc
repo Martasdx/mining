@@ -1,0 +1,9 @@
+
+# not tested
+
+# VTC
+globalminer ccminer
+stratumproxy enabled
+proxywallet YOUR_ADDRESS
+proxypool1 p2proxy.vertcoin.org:9171
+ccminer=flags -a lyra2v2

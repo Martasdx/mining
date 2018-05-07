@@ -1,0 +1,7 @@
+
+# ETP
+globalminer claymore
+stratumproxy enabled
+proxywallet YOUR_ADDRESS
+proxypool1 etp.dodopool.com:8008
+poolpass1 x

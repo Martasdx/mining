@@ -1,0 +1,12 @@
+
+# not tested
+
+# ZCASH
+globalminer claymore-zcash
+stratumproxy enable
+proxywallet YOUR_ADDRESS
+proxypool1 eu.zenmine.pro:9009
+proxypool2 asia.zenmine.pro:9009
+#proxypool1 luckpool.org:3057
+poolpass1 x
+poolpass2 x

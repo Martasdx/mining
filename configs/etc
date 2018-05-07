@@ -1,0 +1,10 @@
+
+
+# ETC
+globalminer claymore
+stratumproxy enabled
+proxywallet YOUR_ADDRESS
+proxypool1 etc-eu1.nanopool.org:19999
+proxypool2 etc-eu2.nanopool.org:19999
+poolpass1 x
+poolpass2 x

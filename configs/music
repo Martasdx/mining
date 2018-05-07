@@ -1,0 +1,7 @@
+
+# MUSIC
+globalminer claymore
+stratumproxy enabled
+proxywallet YOUR_ADDRESS
+proxypool1 music.minerpool.net:8009
+poolpass1 x

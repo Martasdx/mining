@@ -1,0 +1,11 @@
+
+
+# XMR
+globalminer claymore-xmr
+stratumproxy enable
+proxywallet YOUR_ADDRESS
+proxypool1 pool.minexmr.com:7777
+proxypool2 ca.minexmr.com:7777
+claymore-xmr=flags -pow7 1
+poolpass1 x
+poolpass2 x
